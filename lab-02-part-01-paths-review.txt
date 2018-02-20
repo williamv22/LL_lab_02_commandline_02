@@ -90,8 +90,7 @@ Feel free to use your workstation to test your answers to the questions that don
 ----------
 
 ==========
-Optional Challenge:
-
+15. 
 a. Create the following directory structure on...
 b. A folder called my-stuff should be on your desktop.  There should be two additional directories within it: archived, current.
 c. Determine the name of your computer.
